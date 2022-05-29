@@ -109,7 +109,7 @@ section.grid h3 {
   color: white;
 }
 
-div#texto {
+div.texto {
   flex: 1;
   box-sizing: border-box;
   padding: 50px 100px;
@@ -118,7 +118,7 @@ div#texto {
   background-color: #f1f1f1;
 }
 
-div#texto h3 {
+div.texto h3 {
   font-weight: 300;
   letter-spacing: 2px;
   text-align: center;
@@ -135,18 +135,18 @@ div#texto h3 {
   justify-content: space-between;
 }
 
-div.estrutura img {
+div#acido img {
   width: 50%;
   height: 50%;
   padding-left: 360px;
 }
 
-div#imagem {
+div.imagem {
   flex: 1;
   overflow: hidden;
 }
 
-div#imagem img {
+div.imagem img {
   width: 100%;
   height: auto;
 }
